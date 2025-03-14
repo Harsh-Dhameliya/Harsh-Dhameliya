@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsh-Dhameliya i develop a full-stack web application
+- 👋 Hi, I’m @Harsh-Dhameliya, and I develop full-stack web applications.
 
 
 <!---

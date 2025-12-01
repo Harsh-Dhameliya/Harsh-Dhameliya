@@ -36,7 +36,7 @@ Here are a few of my noteworthy projects (check out the repos for live demos, co
 ---
 
 ## 📌 What I’m Looking For  
-- Internship or part-time role in web development (preferably full-stack) where I can contribute and grow.  
+- Full time job in web development (preferably full-stack) where I can contribute and grow.  
 - Freelance web development projects—static websites, dynamic Django sites, React UIs.  
 - Mentorship or collaboration opportunities to work on real-world applications.  
 
@@ -44,7 +44,7 @@ Here are a few of my noteworthy projects (check out the repos for live demos, co
 
 ## 📫 How to Reach Me  
 - **Email**: dhameliyaharsh18@gmail.com
-- **LinkedIn**: linkedin.com/in/harshdhameliya18
+- **LinkedIn**: https://linkedin.com/in/harshdhameliya18
 - **Fiverr**: https://www.fiverr.com/s/xXgaGQl
 - **GitHub**: https://github.com/Harsh-Dhameliya  
 

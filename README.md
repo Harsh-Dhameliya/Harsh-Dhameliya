@@ -28,15 +28,11 @@ I’m a passionate second-year BCA student and self-driven web developer special
 
 ## 📂 Selected Projects  
 Here are a few of my noteworthy projects (check out the repos for live demos, code & documentation):  
-- **Invisible Tours & Travels** — A 3-page Django application: packages listing, details page, booking page passing package name & ID across pages.  
-- **Fiverr Web Development Service Page** — Landing page promoting my web dev services starting at ₹999 (static site built with HTML/CSS/Bootstrap).  
-- **Demo & Local-repo** — Small showcase pages to experiment with HTML & layout design.  
-- **Personal GitHub Profile Config** — Repo to manage and stylise my GitHub profile (this one!).  
+- **Invisible Tours & Travels** — A 3-page Django application: packages listing, details page, booking page passing package name & ID across pages.   
 
 ---
 
 ## 📌 What I’m Looking For  
-- Full time job in web development (preferably full-stack) where I can contribute and grow.  
 - Freelance web development projects—static websites, dynamic Django sites, React UIs.  
 - Mentorship or collaboration opportunities to work on real-world applications.  
 
